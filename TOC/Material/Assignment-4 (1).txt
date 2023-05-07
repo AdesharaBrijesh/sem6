@@ -1,0 +1,22 @@
+Chapter-6
+6.1
+6.4
+6.6
+6.9
+6.10
+6.22
+6.26(only show that the given Grammar is Ambiguous or not)
+6.34
+6.35
+6.38(only d)
+6.39
+Chapter-7
+7.5
+7.6
+7.13
+Chapter-9
+9.6(Except e and f)
+
+BOOK: INTRODUCTION TO LANGUAGES AND THE THEORY OF COMPUTATION BY JOHN C.MARTIN, 3RD EDITION.
+
+Submitted on or before:06/04/2020 to RU SIR.
