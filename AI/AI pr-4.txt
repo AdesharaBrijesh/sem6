@@ -1,0 +1,21 @@
+AI pr-4
+
+isvalidmove - to check if the move is valid / alreasdy moved or not / either place empty
+setmove - 
+	board is represent as 2d array
+	for min max algo player parameter are :
+	no of player : -1
+	no of AI : +1
+
+drawboard - print symbols (x / o) according to positions of -1 & +1
+getsccorewin : oto find whos leading in game check iswin for -1 then for +1 elses draw
+iswin fn : patterns store statically (8) and match if it is matched then return true
+	
+getemptycells() : there is still placeempty in array as 0 zero if it returns zero then game over 
+
+
+minimax
+count==9 
+randomly pic coordinate
+else 
+use minimax
