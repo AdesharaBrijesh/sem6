@@ -1,0 +1,16 @@
+cc pr-5 aim for excer
+amazon ec-2 cinfiguation 
+a)host a website on windows ec-2 instance
+b)host a website on linux ec-2 instance
+
+make doc file for references
+make a ppt : 	intro of group and topic 2-4 slides
+		why needed? purpose of project 
+		components of topic
+		architecture of topic
+		pros/cons
+		procedure/steps to implement
+		comparision with relevent technology/software
+		conclusion
+*each member must present
+another doc file lab manual practical topic steps and everything in details...
